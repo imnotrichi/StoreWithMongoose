@@ -1,0 +1,32 @@
+{"level":"error","message":"No se ha podido acceder a /api/users/login en el servidor"}
+{"level":"error","message":"next is not defined"}
+{"level":"error","message":"Usuario o contraseña invalidos"}
+{"level":"error","message":"secretOrPrivateKey must have a value"}
+{"level":"error","message":"req.json is not a function"}
+{"level":"error","message":"No se proporciono un token."}
+{"level":"error","message":"No se proporciono un token."}
+{"level":"error","message":"Los campos nombre, precio y cantidad son requeridos"}
+{"level":"error","message":"No se proporciono un token."}
+{"level":"error","message":"Ocurrio un error al obtener el producto."}
+{"level":"error","message":"El token no es válido."}
+{"level":"error","message":"El token no es válido."}
+{"level":"error","message":"El token no es válido."}
+{"level":"error","message":"El token no es válido."}
+{"level":"error","message":"Los campos idVenta y productosventa son requeridos"}
+{"level":"error","message":"Los campos idVenta y productosventa son requeridos"}
+{"level":"error","message":"Unexpected token '\"', \"\"productos\"... is not valid JSON"}
+{"level":"error","message":"Los campos idVenta y productosventa son requeridos"}
+{"level":"error","message":"Los campos idVenta y productos son requeridos"}
+{"level":"error","message":"Los campos idVenta y productos son requeridos"}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Productos debe ser un arreglo"}
+{"level":"error","message":"Productos debe ser un arreglo"}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Ocurrio un error al crear la venta."}
+{"level":"error","message":"Los campos idVenta y productos son requeridos"}
